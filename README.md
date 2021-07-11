@@ -1,3 +1,3 @@
 # Satellite Python
-A satellite program with not real function,show pc info in web only.
+A satellite program with not real function,show pc info in web and testing only.
 # This is not 100% useable.
